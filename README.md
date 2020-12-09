@@ -3,6 +3,6 @@
 
 # About Me
 
-- I'm currently trying to learn how to code Jave through making my own Minecraft utility mod made for anarchy servers (https://github.com/kusakiDEV/kusakiMOD).
+- I'm currently kind of helping out making YEK (https://github.com/Delected/Yek) 
 - It may seem childish, but I enjoy building and creating things in Minecraft and Roblox
 - I like Nintendo's games, but not the company itself **#freemelee**
