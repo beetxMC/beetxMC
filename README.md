@@ -3,6 +3,4 @@
 
 # About Me
 
-- I'm currently kind of helping out making YEK (https://github.com/Yekc/Yek) 
-- It may seem childish, but I enjoy building and creating things in Minecraft and Roblox
-- I like Nintendo's games, but not the company itself **#freemelee**
+- no
